@@ -44,9 +44,8 @@ This project analyzes sales data from **FNP (Ferns and Petals)** — a gifting c
 FNP-Sales-Analysis/
 │
 ├── Complete_Dashboard_Excel.xlsx    # Cleaned data + interactive Excel dashboard
-├── orders.csv                       # Raw orders data
-├── customers.csv                    # Customer details
-├── products.csv                     # Product catalog
+├── Dashboard.png                    # Screenshot of Dashboard created
+├── FNP Dataset.zip                  # Dataset of FNP
 ├── Ferns_and_Petals_Analysis.pdf    # Problem statement
 └── README.md
 ```
